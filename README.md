@@ -1,4 +1,4 @@
-#WhizKidTrains
+# WhizKidTrains
 
 WhizKidTrains is an educational web application specifically designed for autistic children, offering a welcoming and structured environment where they can engage in interactive learning. Acting as a central hub, the platform connects several mini-games that teach essential concepts in rail transportation and logistics, all tailored to the needs of neurodiverse learners.
 
